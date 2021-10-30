@@ -38,5 +38,8 @@
     box-shadow: 2px 2px 12px rgb(0, 0, 0,  50%);
     transition: ease-in 0.15s;
 }
+.addSection input:focus-visible{
+    outline: none;
+}
 
 
